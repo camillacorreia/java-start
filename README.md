@@ -26,3 +26,13 @@ Operador Ternário;
 Igualdade com String;
 JRE vs JDK;
 Java vs Javac.
+
+#### - Estruturas de Controle
+
+If;
+If/Else;
+While;
+For;
+Do/While;
+Switch;
+Break.
