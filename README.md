@@ -22,4 +22,7 @@ Operadores Lógicos;
 Operadores Relacionais;
 Operadores Atribuição;
 Operadores Unários;
-Operador Ternário
+Operador Ternário;
+Igualdade com String;
+JRE vs JDK;
+Java vs Javac.
